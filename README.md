@@ -50,9 +50,9 @@ More details coming soon in a dedicated repository!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishpansara&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=krishpansara&theme=tokyonight" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.demolab.com?user=krishpansara&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
