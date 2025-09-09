@@ -18,7 +18,7 @@
 - Exploring cutting-edge technologies in AI
 - Building a solid foundation in Python and core CS concepts
 
-🚗 Currently working on a **Self-Driving Car Mini Project** using OpenCV & DL  
+<!-- 🚗 Currently working on a **Self-Driving Car Mini Project** using OpenCV & DL  -->
 
 ---
 
