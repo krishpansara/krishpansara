@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
-
+<!--
 ## 🔭 Current Project
 
 ### 🛣️ **Self-Driving Car Mini Project**
@@ -44,7 +44,7 @@
 More details coming soon in a dedicated repository!
 
 ---
-
+-->
 ## 📈 GitHub Stats
 
 <p align="center">
