@@ -35,26 +35,28 @@
 
 ---
 <!--
-## 🔭 Current Project
-
-### 🛣️ **Self-Driving Car Mini Project**
-> Using computer vision and deep learning for lane and object detection  
-`Technologies:` OpenCV, Python, Deep Learning
-
-More details coming soon in a dedicated repository!
-
----
--->
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishpansara&show_icons=true&theme=tokyonight" alt="Krish's GitHub Stats" />
-  <br />
-<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpansara&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=krishpansara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpansara&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpansara&layout=compact&theme=tokyonight" />
+</p>
+
+-->
+
+## 💳 Profile Summary & Productive Time
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpansara&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishpansara&theme=2077" />
+</p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=krishpansara&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
 </p>
 
 
----
 
 
 
