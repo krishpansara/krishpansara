@@ -44,20 +44,16 @@
 </p>
 
 -->
+## 📊 GitHub Stats
 
-## 💳 Profile Summary & Productive Time
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishpansara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpansara&layout=compact&theme=radical"/>
+</div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishpansara&theme=tokyonight&utcOffset=8" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishpansara&theme=2077" />
-</p>
-
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=krishpansara&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
-
-
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=krishpansara&theme=dark" alt="GitHub Streak"/>
+</div>
 
 
 ## 📫 Let's Connect
@@ -65,9 +61,19 @@
 <!-- social handles -->
 <div align="center"> 
   <!-- gmail -->
-  <a href="mailto:krishpanasara9265@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:krishpanasara9265@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/krishpansara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/krishpansara" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
+  <!-- Kaggle   -->
+  <a href="https://www.kaggle.com/krishpansara" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </div>
 
 ---
@@ -75,3 +81,7 @@
 ## 💬 Favorite Quote
 
 > “The best way to predict the future is to invent it.” – Alan Kay
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=krishpansara&style=flat-square)
